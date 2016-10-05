@@ -1,0 +1,24 @@
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans+Condensed:300|Roboto+Slab';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Slab';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+h1 {
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Open Sans Condensed';
+}
+
+H2 {
+  text-align: center;
+  font-family: Indie Flower;
+  font-size: 50px
+}
+
+H3 {
+  text-align: center;
+  Font-family: Roboto Slab;
+  font-size: 20px
+}
+
+body {
+  background-image: url("http://www.rhysy.net/WIPS/Asteroids.jpg")
+}
